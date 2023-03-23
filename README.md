@@ -1,2 +1,5 @@
 # dcc-Compiler
-Compilation Principles Learning Record and Related Practices
+
+* 2023 sp 的 编译原理课程学习记录。
+* 阅读《自制编译器》(青木峰郎)的阅读笔记。
+* 一个小型编译器的实践项目。
